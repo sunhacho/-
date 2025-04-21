@@ -15,10 +15,22 @@
 </br>
 
 #### 각 토픽의 키워드를 기반으로 e-SERVQUAL에 의거 하여 독립 변수를 선정</br>
-Topic1은 완벽한 하루 어플리케이션의 정보가 다양하고 풍부하다는 특성을 추출하였으며 이는 e-SERVQUAL의 유형성(tangibility)에서 파생하여 정보 대량성이라 정함</br>
-Topic2 는 정보가 특정 상황 내에서 알맞게 추천해 준다는 특성을 추출하였으며 e-SERVQUAL의 공감성 (empathy)에서 파생하여 상황 기반 제공성이라 정함 </br>
-Topic3는 서비스 또는 경험이 개인의 사전 기대와 부합하는 특성을 추출하였으며, e-SERVQUAL 의 확신성(assurance)에서 파생하여 기대 충족성이라 정함</br>
-Topic4는 시스템 사용이 쉽다는 특성을 추출하였으며, e-SERVQUAL의 사용 용이성(ease of use)을 차용함</br>
+<details>
+  <summary><b>Topic1 정보대량성</b></summary>
+  Information',' Enough', 'Many', 'Different' 등을 바탕으로, 완벽한 하루 어플리케이션의 정보가 다양하고 풍부하다는 특성을 추출하였으며 이는 e-SERVQUAL의 유형성(tangibility)에 서 파생하여 정보 대량성이라함</br>
+</details>
+<details>
+  <summary><b>Topic2 상황기반제공성</b></summary>
+  Course', 'Interest', 'Recommendation', 'Review' 등을 바탕으로, 정보가 특정 상황 내에서 알맞게 추천해 준다는 특성을 추출하였으며 e-SERVQUAL의 공감성 (empathy)에서 파생하여 상황 기반 제공성이라 함
+</details>
+<details>
+  <summary><b>Topic3 기대충족성</b></summary>
+  Taste', 'Important', 'Good', 'Cost' 등을 바탕으로, 서비스 또는 경험이 개인의 사전 기대와 부합하는 특성을 추출하였으며, e-SERVQUAL 의 확신성(assurance)에서 파생하여 기대 충족성이라 함
+</details>
+<details>
+  <summary><b>Topic4 사용용이성</b></summary>
+  Time', 'Easy', 'Convenient', 'Quickly' 등을 바탕으로, 시스템 사용이 쉽다는 특성을 추출하였으며, e-SERVQUAL의 사용 용이성(ease of use)을 차용
+</details>
 
 ### 연구 모형과 가설
 <img width="730" alt="image" src="https://github.com/user-attachments/assets/919c8899-1a3e-4fbd-9991-81d1d8cad758" /></br>
