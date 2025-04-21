@@ -3,8 +3,17 @@
 ### 연구 프레임워크 <Fig. 1>
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/8b9ec253-0612-4edb-9f6b-31206ec3b546" />
 </br>
-완벽한 하루 애플리케이션의 지속사용의도에 영향을 미치는 AI 추천 서비스 특성을 도출하기 위해 <Fig. 1>과 같이 5단계로 진행함</br>
+#### 완벽한 하루 애플리케이션의 지속사용의도에 영향을 미치는 AI 추천 서비스 특성을 도출하기 위해 <Fig. 1>과 같이 5단계로 진행함</br>
 1. AI 추천 서비스의 특성을 알아내기 위해 완벽한 하루 애플리케이션 사용자에게 정성 방법인 심층 인터뷰를 진행</br>
 2. 심층인터뷰 데이터를 정량 방법인 LDA 토픽 모델링을 통해 AI 추천 서비스 특성을 추출</br>
 3. 가치기반수용모델을 토대로 연구모형을 수립하고 연구 가설을 설정</br>
-4. 설문을 시행하여 특성 요인이 지각된 가치인 기능적 가치, 쾌락적 가치에 따라 지속사용의도에 어떠한 영향을 미치는지를 연구하고자 함</br>
+4. 설문을 시행
+5. 특성 요인이 지각된 가치인 기능적 가치, 쾌락적 가치에 따라 지속사용의도에 어떠한 영향을 미치는지를 연구함</br>
+
+### 토픽모델링 결과 
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/fc3a5cb4-2630-4be2-9542-a665f6f0c403" />
+#### 각 토픽의 키워드를 기반으로 e-SERVQUAL에 의거 하여 독립 변수를 선정</br>
+Topic1은 'Information',' Enough', 'Many', 'Different' 등을 바탕으로, 완벽한 하루 어플리케이션의 정보가 다양하고 풍부하다는 특성을 추출하였으며 이는 e-SERVQUAL의 유형성(tangibility)에서 파생하여 정보 대량성이라 정함</br>
+Topic2 는 'Course', 'Interest', 'Recommendation', 'Review' 등을 바탕으로, 정보가 특정 상황 내에서 알맞게 추천해 준다는 특성을 추출하였으며 e-SERVQUAL의 공감성 (empathy)에서 파생하여 상황 기반 제공성이라 정함 </br>
+Topic3는 'Taste', 'Important', 'Good', 'Cost' 등을 바탕으로, 서비스 또는 경험이 개인의 사전 기대와 부합하는 특성을 추출하였으며, e-SERVQUAL 의 확신성(assurance)에서 파생하여 기대 충족성이라 정함</br>
+Topic4는 'Time', 'Easy', 'Convenient', 'Quickly' 등을 바탕으로, 시스템 사용이 쉽다는 특성을 추출하였으며, e-SERVQUAL의 사용 용이성(ease of use)을 차용함</br>
