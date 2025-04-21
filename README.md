@@ -12,6 +12,8 @@
 
 ### 토픽모델링 결과 
 <img width="438" alt="image" src="https://github.com/user-attachments/assets/fc3a5cb4-2630-4be2-9542-a665f6f0c403" />
+</br>
+
 #### 각 토픽의 키워드를 기반으로 e-SERVQUAL에 의거 하여 독립 변수를 선정</br>
 Topic1은 'Information',' Enough', 'Many', 'Different' 등을 바탕으로, 완벽한 하루 어플리케이션의 정보가 다양하고 풍부하다는 특성을 추출하였으며 이는 e-SERVQUAL의 유형성(tangibility)에서 파생하여 정보 대량성이라 정함</br>
 Topic2 는 'Course', 'Interest', 'Recommendation', 'Review' 등을 바탕으로, 정보가 특정 상황 내에서 알맞게 추천해 준다는 특성을 추출하였으며 e-SERVQUAL의 공감성 (empathy)에서 파생하여 상황 기반 제공성이라 정함 </br>
