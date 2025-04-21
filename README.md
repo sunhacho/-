@@ -1,5 +1,5 @@
 # 뉴런즈_'완벽한하루' 애플리케이션 기업연계 프로젝트
-
+본 연구는 뉴런즈 기업과 연계 프로젝트로 진행하였으며, 한국산학기술학회에 논문 기재되었습니다.
 ### 연구 프레임워크 <Fig. 1>
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/8b9ec253-0612-4edb-9f6b-31206ec3b546" />
 </br>
